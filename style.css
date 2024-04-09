@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+caption {
+    font-size: 20px;
+    color: black;
+}
+table {
+    width: 600px;
+    height: 55vh;
+    font-size: 20px;
+    border-color: black;
+}
